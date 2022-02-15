@@ -25,3 +25,4 @@ blaze-html-templates
 jquery
 tracker
 iron:router
+sacha:spin
