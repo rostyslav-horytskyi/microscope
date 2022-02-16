@@ -26,3 +26,6 @@ jquery
 tracker
 iron:router
 sacha:spin
+accounts-password
+accounts-base
+accounts-ui
